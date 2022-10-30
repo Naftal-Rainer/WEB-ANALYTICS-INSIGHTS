@@ -37,7 +37,9 @@ The dataset consist of 5110 records and 13 columns. The data types distribution 
 
 A bounce represents a visitor who enters the site and then leaves ("bounces") rather than continuing to view other pages within the same site.
 
-CONVERSION_RATE
-BOUNCE_RATE
-ADD_TO_CART_RATE
+CONVERSION_RATE ='ORDERS'/'VISITS'
+
+BOUNCE_RATE ='BOUNCES'/'VISITS'
+
+ADD_TO_CART_RATE ='ADD_TO_CART'/'VISITS'
 
